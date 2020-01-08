@@ -1,3 +1,4 @@
+ASO定制,#genre#
 凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
 CCTV1,http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8#CCTV1,http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=42&Provider_id=&Pcontent_id=index.m3u8#http://121.31.30.90:8085/ysten-business/live/hdcctv01/1.m3u8
 CCTV2,http://39.135.32.29:6610/000000001000/1000000001000012442/1.m3u8?IASHttpSessionId=OTT#http://111.11.123.41:6610/030000001000/G_CCTV-2/G_CCTV-2.m3u8?IASHttpSessionId=OTT336820200108122817000062 
