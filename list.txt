@@ -38,7 +38,7 @@ CCTV5+,http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8#http://117.1
 江西,http://112.17.40.140/PLTV/88888888/224/3221226128/index.m3u8#http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=91&Provider_id=&Pcontent_id=index.m3u8
 安徽,http://112.17.40.140/PLTV/88888888/224/3221226490/index.m3u8#http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=93&Provider_id=&Pcontent_id=index.m3u8
 黑莓电影,http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
-黑莓动画,http://39.134.176.148/PLTV/88888888/224/3221226656/index.m3u8 
+黑莓动画,http://39.134.176.148/PLTV/88888888/224/3221226654/index.m3u8 
 港台频道,#genre#
 民视,vjms://23.237.33.155:8500:3502/live/cid=450
 中視,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#vjms://23.237.33.155:8500:3502/live/cid=452
