@@ -4,7 +4,7 @@ CCTV1,http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8#CCT
 CCTV2,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226178/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225746/index.m3u8  
 CCTV3,http://39.135.32.29:6610/000000001000/8378175926191110263/1.m3u8?IASHttpSessionId=OTT#http://117.169.120.98:8080/ysten-businessmobile/live/HD-8000k-1080P-cctv3/1.m3u8
 CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8#http://39.134.52.153/PLTV/88888888/224/3221226114/index.m3u8
-CCTV5,http://39.134.176.148/PLTV/88888888/224/3221226645/index.m3u8#http://39.135.32.29:6610/000000001000/1000000001000004794/1.m3u8?IASHttpSessionId=OTT
+CCTV5,http://39.134.176.148/PLTV/88888888/224/3221226645/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226645/index.m3u8#http://39.135.32.29:6610/000000001000/1000000001000004794/1.m3u8?IASHttpSessionId=OTT
 CCTV6,http://39.135.32.29:6610/000000001000/6117099895556651277/1.m3u8?IASHttpSessionId=OTT#http://117.169.120.169:8080/live/cctv-6/.m3u8?icpid=88888929&from=79102&hms_devid=492,441&online=1578489597&vqe=3
 CCTV7,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225671/index.m3u8
 CCTV8,http://39.135.32.29:6610/000000001000/1000000001000003736/1.m3u8?IASHttpSessionId=OTT
@@ -34,6 +34,8 @@ CCTV5+,http://117.169.120.98:8080/ysten-businessmobile/live/HD-8000k-1080P-cctv0
 重庆,http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=87&Provider_id=&Pcontent_id=index.m3u8
 江西,http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=91&Provider_id=&Pcontent_id=index.m3u8
 安徽,http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=93&Provider_id=&Pcontent_id=index.m3u8
+黑莓动画,http://39.134.176.148/PLTV/88888888/224/3221226656/index.m3u8 
+
 港台频道,#genre#
 民视,vjms://23.237.33.155:8500:3502/live/cid=450
 中視,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#vjms://23.237.33.155:8500:3502/live/cid=452
