@@ -499,7 +499,7 @@ Astro supersport2,p2p://lino.homeunix.com:6007/5b2c87f6000f163b067f226448d8404a.
 Astro supersport3,p2p://lino.homeunix.com:6007/5b2c8817000c0d55067fa28124555619.ts
 Astro supersport4,p2p://lino.homeunix.com:6007/5b3df27000021a814a87f6e365805194.ts
 霹雳台湾台,p2p://lino.homeunix.com:6007/5b07a59b0005c8ff766a65e653565438.ts
-测试,
+测试,#genre#
 民视,mitv://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
 华视,mitv://190.2.146.92:18912/5c72484f000e498b1d51fe2201d92dd3.ts
 中视,mitv://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
