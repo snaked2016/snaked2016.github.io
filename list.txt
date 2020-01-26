@@ -710,3 +710,11 @@ MOMO親子臺,mitv://190.2.146.92:18912/5d70eb0f000a5e750d0a9659304554ba.ts
 CN卡通頻道(En),mitv://51.79.41.138:18912/5b593933000710c5d36f6a2a46fd3816.ts
 RHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+私人_55555,#genre#
+Babestation Xtreme,http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8 
+Big Dick,http://cdn.adultiptv.net/bigdick.m3u8 
+Blue Hustler,http://178.124.183.14:80/hls/CH_BLUEHUSTLER/variant.m3u8 
+Brunette,http://cdn.adultiptv.net/brunette.m3u8 
+Compilation,http://cdn.adultiptv.net/compilation.m3u8 
+Cuckold HD,http://live.redtraffic.xyz/cuckold.m3u8 
+Dorcel,http://tv.fast-iptv.info:12974/live/l0Jvklidcd/PZCpLDhfyF/340.ts
