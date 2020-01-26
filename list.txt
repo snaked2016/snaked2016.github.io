@@ -324,6 +324,7 @@ tvN HD,p2p://lino.homeunix.com:6007/59fd248e000a1aa502a3488f618b6de7.ts
 美国高尔夫频道 HD,p2p://lino.homeunix.com:6007/59fd23c0000c1e7f02a0245c6964058b.ts
 SKY SPORTS-1 HD,p2p://lino.homeunix.com:6007/59fd234800021a00029e4d0b3a1e0cfe.ts
 SKY NEWS HD,p2p://lino.homeunix.com:6007/59fd22c0000ee81c029c3d17391911a6.ts
+博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 博斯无限,p2p://lino.homeunix.com:6007/59fd149100031ddf0264d2721a4e5126.ts
 八大娱乐台 HD,p2p://lino.homeunix.com:6007/59fd38fe000e2eeb02f31f187a8b3f49.ts
 靖天卡通台 HD,p2p://lino.homeunix.com:6007/59fd38e0000de06a02f2a9c951a975a6.ts
