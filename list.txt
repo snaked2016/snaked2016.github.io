@@ -4,7 +4,7 @@ CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
 CCTV1,http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8#CCTV1,http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=42&Provider_id=&Pcontent_id=index.m3u8#http://121.31.30.90:8085/ysten-business/live/hdcctv01/1.m3u8
 CCTV2,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226178/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226468/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225746/index.m3u8  
 CCTV3,http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8#http://39.135.32.29:6610/000000001000/8378175926191110263/1.m3u8?IASHttpSessionId=OTT#http://117.169.120.98:8080/ysten-businessmobile/live/HD-8000k-1080P-cctv3/1.m3u8
-CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8#http://39.134.52.153/PLTV/88888888/224/3221226114/index.m3u8
+CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226176/index.m3u8#http://39.134.52.153/PLTV/88888888/224/3221226114/index.m3u8
 CCTV5,http://39.134.176.148/PLTV/88888888/224/3221226645/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226562/index.m3u8#http://39.135.32.29:6610/000000001000/1000000001000004794/1.m3u8?IASHttpSessionId=OTT
 CCTV6,http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8#http://39.135.32.29:6610/000000001000/6117099895556651277/1.m3u8?IASHttpSessionId=OTT#http://117.169.120.169:8080/live/cctv-6/.m3u8?icpid=88888929&from=79102&hms_devid=492,441&online=1578489597&vqe=3
 CCTV7,http://112.17.40.140/PLTV/88888888/224/3221226470/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225671/index.m3u8
