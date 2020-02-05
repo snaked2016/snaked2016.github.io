@@ -79,30 +79,33 @@ CCTV-17,http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 贵州卫视 FHD,http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
 广西卫视 FHD,http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
 港台频道,#genre#
-民视,vjms://23.237.33.155:8500:3502/live/cid=450
-中視,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#vjms://23.237.33.155:8500:3502/live/cid=452
-華視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#vjms://23.237.33.155:8500:3502/live/cid=451
-台视,vjms://23.237.33.155:8500:3502/live/cid=453
-J2,vjms://23.237.33.155:8500:3502/live/cid=368
-TVB翡翠臺,vjms://23.237.33.155:8500:3502/live/cid=362
-三立都會,vjms://23.237.33.155:8500:3502/live/cid=226
-三立臺湾,vjms://23.237.33.155:8500:3502/live/cid=437
-TVBS HD,vjms://23.237.33.155:8500:3502/live/cid=349
-東森綜合 ,P2p://190.2.146.92:18912/5c724877000e7b2d1d529a721b487255.ts
-東森幼幼 ,P2p://190.2.146.92:18912/5c724866000564111d5255b84de26a1c.ts
-爱尔达体育HD,vjms://58.215.133.184:8500:3502/live/cid=266
-ELTA體育3 ,P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
-衛視電影 ,P2p://190.2.146.92:18912/5c7249cf00095b611d57d8da587f1c48.ts
-星衛電影 ,P2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts
-HBO亚洲电影HD,vjms://58.215.133.184:8500:3502/live/cid=261
-美亞電影 ,P2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
-AXN,vjms://58.215.133.184:8500:3502/live/cid=2
-国家地理野生HD,vjms://58.215.133.184:8500:3502/live/cid=263
-国家地理HD,vjms://58.215.133.184:8500:3502/live/cid=115
-探索频道HD,vjms://58.215.133.184:8500:3502/live/cid=440
-动物星球,vjms://58.215.133.184:8500:3502/live/cid=3
-发现科学,vjms://58.215.133.184:8500:3502/live/cid=457
-TLC旅游生活,vjms://58.215.133.184:8500:3502/live/cid=103
+TVB翡翠台,http://hls.ws.anyrtc.io/live/f0eece805ced215dc81070696fe5b7d0.flv
+TVB J2,http://hls.ws.anyrtc.io/live/b1ba78566b8f0f43aab66feeb74364fa.flv
+TVB无线资讯台,http://hls.ws.anyrtc.io/live/ed709f05cac24e0cae8cf57feeb7dccd.flv
+TVB明珠台,http://hls.ws.anyrtc.io/live/65f9dbd5e37335c3ee4f5c0ffe6dc260.flv
+TVB无线新闻台,http://hls.ws.anyrtc.io/live/820e9878cd85ca0dd560bafd7bff4cbd.flv
+中视,http://hls.ws.anyrtc.io/live/6fe16691fa5f0b8499896bcec5ea16dc.flv
+华视,http://hls.ws.anyrtc.io/live/9d9990af17645649a912ffc184ab2aa8.flv
+台视,http://hls.ws.anyrtc.io/live/9f70e4c3bfb7afa4031b4938803a3136.flv
+民视,http://hls.ws.anyrtc.io/live/ffa07b8234d62bcb96532bc7c4a6e094.flv
+中视经典,http://hls.ws.anyrtc.io/live/3691d684e7a6dc5747651be0b3203b41.flv
+八大第一,http://hls.ws.anyrtc.io/live/6c2ed0de57fd5f9279080cd29e26d36c.flv
+八大综合,http://hls.ws.anyrtc.io/live/67e87d37db3f706e02e5ea145f9c9456.flv
+八大戏剧,http://hls.ws.anyrtc.io/live/2ca9e62b93b7a00c09d89852ac0ef349.flv
+东森戏剧,http://hls.ws.anyrtc.io/live/d4209091aa404eae562456c6886ea50b.flv
+东森新闻,http://hls.ws.anyrtc.io/live/f3b0a3e1f5e84f129be41b04dde1d996.flv
+中天新闻,http://hls.ws.anyrtc.io/live/70b6fc391558118220c89a1a94978f2b.flv
+寰宇新闻,http://hls.ws.anyrtc.io/live/5b3aeb72f1370e47c024677d8db406b0.flv
+TVBS新闻台,http://hls.ws.anyrtc.io/live/af40538fc8e81e90e432662f8774ab45.flv
+东森幼幼,http://hls.ws.anyrtc.io/live/aec5f8f8fbc80c9bb508bd545d838605.flv
+美亚电影,http://hls.ws.anyrtc.io/live/10ad9dd6cfa18ae01a521491b7a67b5b.flv
+星卫电影,http://hls.ws.anyrtc.io/live/a650002891ef7478575780ba5f6a626c.flv
+好莱坞电影台,http://hls.ws.anyrtc.io/live/02940045594de64e9e9e11662e9965ca.flv
+天映经典,http://hls.ws.anyrtc.io/live/b19ab1e5457f0875f0e0c0e5a1c84de1.flv
+双星台,http://hls.ws.anyrtc.io/live/59e020b6d6b8ebd6d5451b2c9f9d3c0c.flv
+全佳台,http://hls.ws.anyrtc.io/live/c8a1dd1bdcd18bfeac853eeb041c7c0b.flv
+华丽台,http://hls.ws.anyrtc.io/live/d4febed828eefc5dc366dfafbce6bccc.flv
+欢喜台,http://hls.ws.anyrtc.io/live/cf60a04ad63be060d88652c4816252ef.fl
 番茄全有,#genre#
 凤凰中文台 HD,p2p://lino.homeunix.com:6007/59fd0c6c0006fd67024502e414f10ff3.ts
 凤凰资讯台 HD,p2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
