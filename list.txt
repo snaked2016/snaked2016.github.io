@@ -532,6 +532,7 @@ SMART,mitv://sdgdklwos.finetv.tv:9906/59fd32970005fa4002da1a9d12c87a7d
 博斯高球1,mitv://sdgdklwos.finetv.tv:9906/59fcf4c90006ba2c01e8ae1c1ec827ca
 博斯高球2,mitv://sdgdklwos.finetv.tv:9906/59fd073b0000c2280230b9e6743b0ab3
 博斯网球,mitv://sdgdklwos.finetv.tv:9906/59fd0790000c3d34023208dc252633c0
+博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=eqz9E8GfvSKbo41zDM-EOg&time=1579172710951
 博斯无限,mitv://sdgdklwos.finetv.tv:9906/59fd149100031ddf0264d2721a4e5126
 博斯运动1,mitv://sdgdklwos.finetv.tv:9906/59fcf5fa00018d0c01ed543c25887aed
 采昌影剧,mitv://sdgdklwos.finetv.tv:9906/59fd15cc000cd7cc0269a36a466420ca
