@@ -46,9 +46,25 @@ CCTV5+,http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8#http://117.1
 中视,http://hls.ws.anyrtc.io/live/f3318a278deff15e3c79e4689bcb93a23/playlist.m3u8?
 台视,http://hls.ws.anyrtc.io/live/ec30cbd4c665d041d23fa4d4d298a46eb/playlist.m3u8?
 fashion tv,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+纬来体育,http://107.148.215.103:13164/play.m3u8?token=s6w8%2Fa4ok%2FUKzLxxxH1RriIB&tid=gt&id=110
 CCTV1,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-
+CCTV2,http://107.148.215.103:13164/play.m3u8?token=vlxoCJJnxLC%2B2uCv6kC2G0jg&tid=ys&id=2
+CCTV3,http://107.148.215.103:13164/play.m3u8?token=LDAPmFRBxnyYdc90GTPsXHcN&tid=ys&id=3
+CCTV4,http://107.148.215.103:13164/play.m3u8?token=Iy7crkh2gx7nElAyeIP2RDRl&tid=ys&id=4
+CCTV5,http://107.148.215.103:13164/play.m3u8?token=wD7m3Cqv%2FHiDbNQoVnvXjgxs&tid=ys&id=5
+CCTV5+,http://107.148.215.103:13164/play.m3u8?token=7JzCOBuKpvHH8BvcooI8%2B9o4&tid=ys&id=6
+CCTV6,http://107.148.215.103:13164/play.m3u8?token=9EFQWsHT7ipvveqgjOdWitvp&tid=ys&id=7
+CCTV13,http://107.148.215.103:13164/play.m3u8?token=TAZD0YledoFS6Co2Yd0euOn0&tid=ys&id=14
 CCTV15,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+湖南,http://107.148.215.103:13164/play.m3u8?token=C60MKyaaR6%2FveN4nCov1Hg9W&tid=ws&id=1
+江苏,http://107.148.215.103:13164/play.m3u8?token=KcJ7y1AffnPcllvujHd%2BjNbf&tid=ws&id=2
+浙江,http://107.148.215.103:13164/play.m3u8?token=A2ZQVxOSvS64r4nornjwMN3h&tid=ws&id=3
+东方,http://107.148.215.103:13164/play.m3u8?token=0JHngjaNxj8U6TWCSLMkIBu9&tid=ws&id=4
+北京,http://107.148.215.103:13164/play.m3u8?token=8Z5Kcm6IBRX3oaGXpfO45Td%2B&tid=ws&id=5
+深圳,http://107.148.215.103:13164/play.m3u8?token=jHxuMmhwuDEi2op3G4kHZFme&tid=ws&id=6
+广东,http://107.148.215.103:13164/play.m3u8?token=xHlbhoWXs7gxMTsCFfltUdEc&tid=ws&id=7
+安徽,http://107.148.215.103:13164/play.m3u8?token=dI3WbvGq6LZAepuWRhP%2FeH2J&tid=ws&id=8
+山东,http://107.148.215.103:13164/play.m3u8?token=0zUmtGAnepMDp7mzLD4WB3o4&tid=ws&id=16
 港台频道,#genre#
 TVB翡翠台,http://hls.ws.anyrtc.io/live/f0eece805ced215dc81070696fe5b7d0.flv
 TVB J2,http://hls.ws.anyrtc.io/live/b1ba78566b8f0f43aab66feeb74364fa.flv
