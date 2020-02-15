@@ -41,11 +41,13 @@ CCTV5+,http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8#http://117.1
 黑莓动画,http://39.134.176.148/PLTV/88888888/224/3221226654/index.m3u8 
 杂烩,#genre#
 寰宇新闻,http://hls.ws.anyrtc.io/live/34873a31771b4e4f9184c2df649003f2/playlist.m3u8?
+翡翠,http://107.148.215.103:13164/play.m3u8?token=Mv8rT%2Fea3fJWMmJPLBCyHEJW&tid=gt&id=1
+凤凰资讯,http://107.148.215.103:13164/play.m3u8?token=z4VwUM2%2F5flNLZ%2FSn0fybIFT&tid=gt&id=3
 民视,http://hls.ws.anyrtc.io/live/3ec30cb4d298a46eb6sd4c4de/playlist.m3u8?
 华视,http://hls.ws.anyrtc.io/live/de320944cbf948143eaf7f6a230b8fcce/playlist.m3u8?
 中视,http://hls.ws.anyrtc.io/live/f3318a278deff15e3c79e4689bcb93a23/playlist.m3u8?
 台视,http://hls.ws.anyrtc.io/live/ec30cbd4c665d041d23fa4d4d298a46eb/playlist.m3u8?
-fashion tv,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+fashion tv,http://107.148.215.103:13164/play.m3u8?token=wAAXvBbB4%2Ff2KtPcIqu8%2FaTs&tid=gt&id=26
 纬来体育,http://107.148.215.103:13164/play.m3u8?token=s6w8%2Fa4ok%2FUKzLxxxH1RriIB&tid=gt&id=110
 CCTV1,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV2,http://107.148.215.103:13164/play.m3u8?token=vlxoCJJnxLC%2B2uCv6kC2G0jg&tid=ys&id=2
@@ -65,6 +67,8 @@ CCTV15,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 广东,http://107.148.215.103:13164/play.m3u8?token=xHlbhoWXs7gxMTsCFfltUdEc&tid=ws&id=7
 安徽,http://107.148.215.103:13164/play.m3u8?token=dI3WbvGq6LZAepuWRhP%2FeH2J&tid=ws&id=8
 山东,http://107.148.215.103:13164/play.m3u8?token=0zUmtGAnepMDp7mzLD4WB3o4&tid=ws&id=16
+广东体育,http://107.148.215.103:13164/play.m3u8?token=2XfPLkKp%2BQYcnlBDqyf2kfUf&tid=ty&id=6
+
 港台频道,#genre#
 TVB翡翠台,http://hls.ws.anyrtc.io/live/f0eece805ced215dc81070696fe5b7d0.flv
 TVB J2,http://hls.ws.anyrtc.io/live/b1ba78566b8f0f43aab66feeb74364fa.flv
