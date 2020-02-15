@@ -46,6 +46,8 @@ CCTV5+,http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8#http://117.1
 中视,http://hls.ws.anyrtc.io/live/f3318a278deff15e3c79e4689bcb93a23/playlist.m3u8?
 台视,http://hls.ws.anyrtc.io/live/ec30cbd4c665d041d23fa4d4d298a46eb/playlist.m3u8?
 fashion tv,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+CCTV1,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+
 CCTV15,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 港台频道,#genre#
 TVB翡翠台,http://hls.ws.anyrtc.io/live/f0eece805ced215dc81070696fe5b7d0.flv
