@@ -41,8 +41,11 @@ CCTV5+,http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8#http://117.1
 黑莓动画,http://39.134.176.148/PLTV/88888888/224/3221226654/index.m3u8 
 杂烩,#genre#
 寰宇新闻,http://hls.ws.anyrtc.io/live/34873a31771b4e4f9184c2df649003f2/playlist.m3u8?
-翡翠,http://107.148.215.103:13164/play.m3u8?token=Mv8rT%2Fea3fJWMmJPLBCyHEJW&tid=gt&id=1
-凤凰资讯,http://107.148.215.103:13164/play.m3u8?token=z4VwUM2%2F5flNLZ%2FSn0fybIFT&tid=gt&id=3
+翡翠,http://pull.scphsd.com/live/8db78c0b91bcg39ea88dtcb9d/playlist.m3u8?
+J2,http://pull.scphsd.com/live/7baa1a3aa142a1f2a72784c0/playlist.m3u8?
+明珠,http://hls.ws.anyrtc.io/live/32653305f9d5c6e37asdwdbd/playlist.m3u8?
+星河,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
 民视,http://hls.ws.anyrtc.io/live/3ec30cb4d298a46eb6sd4c4de/playlist.m3u8?
 华视,http://hls.ws.anyrtc.io/live/de320944cbf948143eaf7f6a230b8fcce/playlist.m3u8?
 中视,http://hls.ws.anyrtc.io/live/f3318a278deff15e3c79e4689bcb93a23/playlist.m3u8?
