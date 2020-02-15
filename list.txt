@@ -54,8 +54,7 @@ J2,http://pull.scphsd.com/live/7baa1a3aa142a1f2a72784c0/playlist.m3u8?
 TVBS新闻,http://hls.ws.anyrtc.io/live/d480bec45403413d8a7db7fe3865d40c/playlist.m3u8?
 东森新闻,http://hls.ws.anyrtc.io/live/0a2e071e88309be274e39da3b237fe0b/playlist.m3u8?
 八大综合,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-fashion tv,http://107.148.215.103:13164/play.m3u8?token=wAAXvBbB4%2Ff2KtPcIqu8%2FaTs&tid=gt&id=26
-纬来体育,http://107.148.215.103:13164/play.m3u8?token=s6w8%2Fa4ok%2FUKzLxxxH1RriIB&tid=gt&id=110
+fashion tv,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 CCTV4K,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV1,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV2,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
