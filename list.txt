@@ -702,7 +702,7 @@ Brunette,http://cdn.adultiptv.net/brunette.m3u8
 Compilation,http://cdn.adultiptv.net/compilation.m3u8 
 Cuckold HD,http://live.redtraffic.xyz/cuckold.m3u8 
 Dorcel,http://tv.fast-iptv.info:12974/live/l0Jvklidcd/PZCpLDhfyF/340.ts
-测试,#genre#
+江西有线51,#genre#
 CCTV-1高清，http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000105.m3u8
 CCTV-2高清，http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000137.m3u8
 CCTV-3高清，http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000131.m3u8
