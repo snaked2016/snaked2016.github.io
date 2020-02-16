@@ -62,7 +62,7 @@ CCTV3,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
 CCTV4,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
 CCTV5,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
 CCTV5+,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CCTV6,http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E47D2D9U319AC04BKB37A3A36IA48D02BEP8M340BFA5V0Z334B7W15F38F3185E93DEB&playtoken=ABCDEFGHI&auth=no&rate=sd&programid=4200000088.m3u8
+CCTV6,http://39.134.65.162/PLTV/88888888/224/3221225687/index.m3u8
 CCTV7,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
 CCTV8,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
 CCTV9,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
