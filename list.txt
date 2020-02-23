@@ -41,10 +41,11 @@ CCTV5+,http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8#http://117.1
 黑莓动画,http://39.134.176.148/PLTV/88888888/224/3221226654/index.m3u8 
 杂烩收集,#genre#
 寰宇新闻,http://play.ggiptv.com:13164/play.m3u8?token=v4wVdC%2FTdCDohWnsBnWrSrLv&tid=gt&id=54
-翡翠,http://play.ggiptv.com:13164/play.m3u8?token=Nq8lQv%2FN2v1WMmJMKhC3EURa&tid=gt&id=1&p=1
-J2,http://play.ggiptv.com:13164/play.m3u8?token=gQDpatNqgRn4qycX7Cz3j2B7&tid=gt&id=12
-明珠,http://play.ggiptv.com:13164/play.m3u8?token=QBuJsl5ILI1y1pNztr7JaHQx&tid=gt&id=13&p=1
-星河,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+TVB J2台,http://103.56.112.40/ddjgt.php?id=12
+TVB明珠台,http://103.56.112.40/ddjgt.php?id=13
+TVB翡翠台,http://103.56.112.40/ddjgt.php?id=1
+TVB新聞台,http://103.56.112.40/ddjgt.php?id=9
+TVB財經台,http://103.56.112.40/ddjgt.php?id=10
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
 民视,http://play.ggiptv.com:13164/play.m3u8?token=djVYu9Z7TOHDP2b8n719FRYI&tid=gt&id=75
 华视,http://hls.ws.anyrtc.io/live/de320944cbf948143eaf7f6a230b8fcce/playlist.m3u8?
