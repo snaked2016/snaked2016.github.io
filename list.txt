@@ -41,12 +41,15 @@ CCTV5+,http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8#http://117.1
 黑莓动画,http://39.134.176.148/PLTV/88888888/224/3221226654/index.m3u8 
 杂烩收集,#genre#
 寰宇新闻,http://play.ggiptv.com:13164/play.m3u8?token=v4wVdC%2FTdCDohWnsBnWrSrLv&tid=gt&id=54
-TVB J2台,http://103.56.112.40/ddjgt.php?id=12
+TVB J2台,http://161.117.233.100/live/tvbj2/tvbj2.m3u8
 TVB明珠台,http://103.56.112.40/ddjgt.php?id=13
-TVB翡翠台,http://103.56.112.40/ddjgt.php?id=1
-TVB新聞台,http://103.56.112.40/ddjgt.php?id=9
+TVB翡翠台,Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+TVB无线新聞,http://161.117.233.100/live/tvbwxxw/OitcyADT.m3u8
 TVB財經台,http://103.56.112.40/ddjgt.php?id=10
-凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
+MTV LIVE,http://161.117.233.100/live/mtvlive/HlsmgNRM.m3u8
+CHV,http://stream.mtime.info/live/channelv/channelv.m3u8
+HBO,http://47.241.6.233/live/hbo/hbo.m3u8
+凤凰资讯,http://47.241.6.233/live/fhwszx/kJSsgtwr.m3u8
 民视,http://play.ggiptv.com:13164/play.m3u8?token=djVYu9Z7TOHDP2b8n719FRYI&tid=gt&id=75
 华视,http://hls.ws.anyrtc.io/live/de320944cbf948143eaf7f6a230b8fcce/playlist.m3u8?
 中视,http://play.ggiptv.com:13164/play.m3u8?token=cEPtMjD2C8G3WeF5dId9sgA1&tid=gt&id=73
@@ -685,3 +688,5 @@ J2,vjms://122.155.180.8:8500:5021/live/cid=368
 J5,vjms://122.155.180.8:8500:5021/live/cid=363
 明珠台,vjms://122.155.180.8:8500:5021/live/cid=367
 澳亚卫视,vjms://122.155.180.8:8500:5021/live/cid=337
+
+http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv2/online.m3u8
