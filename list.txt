@@ -50,9 +50,9 @@ MTV LIVE,http://161.117.233.100/live/mtvlive/HlsmgNRM.m3u8
 CHV,http://stream.mtime.info/live/channelv/channelv.m3u8
 HBO,http://47.241.6.233/live/hbo/hbo.m3u8
 凤凰资讯,http://47.241.6.233/live/fhwszx/kJSsgtwr.m3u8
-民视,http://play.ggiptv.com:13164/play.m3u8?token=djVYu9Z7TOHDP2b8n719FRYI&tid=gt&id=75
-华视,http://hls.ws.anyrtc.io/live/de320944cbf948143eaf7f6a230b8fcce/playlist.m3u8?
-中视,http://play.ggiptv.com:13164/play.m3u8?token=cEPtMjD2C8G3WeF5dId9sgA1&tid=gt&id=73
+民视,http://wsvpull.utoooo.com/live/2d1e2c0d38152f2ef51ffdfed97b071e/playlist.m3u8?
+华视,http://wsvpull.utoooo.com/live/de320944cbf948143eaf7f6a230b8fcce/playlist.m3u8?
+中视,http://wsvpull.utoooo.com/live/f23fe3c79e4689bcf13b593a3128a78de/playlist.m3u8?
 台视,http://play.ggiptv.com:13164/play.m3u8?token=0enUBYSqG0H%2B8DO1j1h5Mx%2Bk&tid=gt&id=74
 三立台湾,http://hls.ws.anyrtc.io/live/81aa3d778b7349b38cd7a1643c050a8f/playlist.m3u8?
 TVBS新闻,http://hls.ws.anyrtc.io/live/d480bec45403413d8a7db7fe3865d40c/playlist.m3u8?
