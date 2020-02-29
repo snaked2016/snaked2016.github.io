@@ -43,7 +43,7 @@ CCTV5+,http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8#http://117.1
 寰宇新闻,http://play.ggiptv.com:13164/play.m3u8?token=v4wVdC%2FTdCDohWnsBnWrSrLv&tid=gt&id=54
 TVB J2台,http://161.117.233.100/live/tvbj2/tvbj2.m3u8
 TVB明珠台,http://103.56.112.40/ddjgt.php?id=13
-TVB翡翠台,Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+TVB翡翠台,http://wsvpull.utoooo.com/live/a88dc8b780bd91btbcg3d9c9e/playlist.m3u8?
 TVB无线新聞,http://161.117.233.100/live/tvbwxxw/OitcyADT.m3u8
 TVB財經台,http://103.56.112.40/ddjgt.php?id=10
 MTV LIVE,http://161.117.233.100/live/mtvlive/HlsmgNRM.m3u8
@@ -60,7 +60,7 @@ TVBS新闻,http://hls.ws.anyrtc.io/live/d480bec45403413d8a7db7fe3865d40c/playlis
 八大综合,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 fashion tv,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 CCTV4K,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CCTV1,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV1,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV2,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 CCTV3,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
 CCTV4,http://140.249.30.40/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
