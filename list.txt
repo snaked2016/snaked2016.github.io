@@ -50,7 +50,7 @@ MTV LIVE,http://161.117.233.100/live/mtvlive/HlsmgNRM.m3u8
 CHV,http://stream.mtime.info/live/channelv/channelv.m3u8
 HBO,http://47.241.6.233/live/hbo/hbo.m3u8
 凤凰资讯,http://47.241.6.233/live/fhwszx/kJSsgtwr.m3u8
-民视,http://wsvpull.utoooo.com/live/2d1e2c0d38152f2ef51ffdfed97b071e/playlist.m3u8?
+民视,http://wsvpull.utoooo.com/live/2d1e2c0d38152f2ef51ffdfed97b071e/playlist.m3u8?wsSession=a854abbe50a36c9bb5330973-158298071057110&wsIPSercert=11f351ddc255b109fac682e3ee357d47&wsMonitor=0
 华视,http://wsvpull.utoooo.com/live/de320944cbf948143eaf7f6a230b8fcce/playlist.m3u8?
 中视,http://wsvpull.utoooo.com/live/f23fe3c79e4689bcf13b593a3128a78de/playlist.m3u8?
 台视,http://play.ggiptv.com:13164/play.m3u8?token=0enUBYSqG0H%2B8DO1j1h5Mx%2Bk&tid=gt&id=74
