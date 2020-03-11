@@ -44,12 +44,12 @@ CCTV5+,http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8#http://117.1
 广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8?
 寰宇新闻,http://play.ggiptv.com:13164/play.m3u8?token=v4wVdC%2FTdCDohWnsBnWrSrLv&tid=gt&id=54
-TVB J2台,http://wsvpull.utoooo.com/live/2a7a1428a734ba17f2aa1ac0/playlist.m3u8?
-TVB明珠台,http://wsvpull.utoooo.com/live/9de3asdbd73305fw63265d5c/playlist.m3u8?
-TVB翡翠台,http://wsvpull.utoooo.com/live/a88dc8b780bd91btbcg3d9c9e/playlist.m3u8?
-TVB无线新聞,http://wsvpull.utoooo.com/live/31b7621f5122a3ca71b2c91a0/playlist.m3u8?
+TVB J2台,http://pull.scphsd.com/live/82ef3da910314de88e1e7d0428ba6cf5/playlist.m3u8?
+TVB明珠台,http://pull.scphsd.com/live/f40d589358285dd96ca00a105db10f76/playlist.m3u8?
+TVB翡翠台,http://pull.scphsd.com/live/b3edd0268ef497113c895c4c101e54c0/playlist.m3u8?
+TVB无线新聞,http://pull.scphsd.com/live/f8d845d48fc50225de9fce143f2f300c/playlist.m3u8?
 TVB无线財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/chunklist_b712704.m3u8
-有线新闻,http://wsvpull.utoooo.com/live/1bf03a5b29b115fc17116c892/playlist.m3u8?
+有线新闻,http://pull.scphsd.com/live/5608c7e37b784443f4c7ab01a75c1974/playlist.m3u8?
 Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 HBO,http://161.0.157.6/PLTV/88888888/224/3221227026/01.m3u8
 HBO HD,live.baijiayun.com/live/e070fbdf912ff8b4fe8e50ae98f5eb20.m3u8
