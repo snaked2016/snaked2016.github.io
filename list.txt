@@ -45,19 +45,7 @@ CCTV5+,http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8#http://117.1
 Tvbs 新聞台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 翡翠台,http://m.567it.com/jade.m3u8
 凤凰资讯,http://live.centerch.com/fhzx.m3u8
-CCTV-1HD,http://cbnlive.cbchot.com/live/yt_cctv1_h_1.m3u8?123
-CCTV-2HD,http://cbnlive.cbchot.com/live/yt_cctv2_h_1.m3u8?123
-CCTV-3HD,http://cbnlive.cbchot.com/live/yt_cctv3_h_1.m3u8?123
-CCTV-4HD,http://cbnlive.cbchot.com/live/yt_cctv4zhongwenguoji_h_1.m3u8?123
-CCTV-5HD,http://cbnlive.cbchot.com/live/ty_cctv5_h_1.m3u8?123
-CCTV5+HD,http://cbnlive.cbchot.com/live/ty_cctv5+_h_1.m3u8?123
-CCTV-6HD,http://cbnlive.cbchot.com/live/yt_cctv6_h_1.m3u8?123
-CCTV-7HD,http://cbnlive.cbchot.com/live/yt_cctv7_h_1.m3u8?123
-CCTV-8HD,http://cbnlive.cbchot.com/live/ty_cctv8_h_1.m3u8?123
-CCTV-9HD,http://cbnlive.cbchot.com/live/yt_cctv9_h_1.m3u8?123
-CCTV-10HD,http://cbnlive.cbchot.com/live/yt_cctv10_h_1.m3u8?123
-CCTV-12HD,http://cbnlive.cbchot.com/live/yt_cctv12_h_1.m3u8?123
-CCTV-14HD,http://cbnlive.cbchot.com/live/yt_cctv14_h_1.m3u8?123
+
 
 私人频道_55555,#genre#
 Babestation Xtreme,http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8 
